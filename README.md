@@ -23,6 +23,8 @@ The app displays:
 - "Feels like" temperature
 - Humidity percentage
 - Wind speed in MPH
+  
+<img width="1470" height="799" alt="Screenshot 2025-11-28 at 7 05 12 PM" src="https://github.com/user-attachments/assets/1adc6862-0856-4435-93ea-b2e2bea7e885" />
 
 ##  Technologies Used
 
