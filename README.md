@@ -6,16 +6,16 @@ A beautiful and responsive weather application built with React that provides re
 ![Axios](https://img.shields.io/badge/Axios-1.10.0-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![OpenWeather](https://img.shields.io/badge/OpenWeather-API-orange?style=for-the-badge&logo=openweathermap&logoColor=white)
 
-## ✨ Features
+## Features
 
-- 🌍 **Global Coverage** - Search weather for any city worldwide
-- 🌡️ **Real-time Data** - Get current temperature in Celsius
-- 💨 **Detailed Information** - View wind speed, humidity, and "feels like" temperature
-- 🎨 **Beautiful UI** - Clean and modern design with sunset background
-- 📱 **Responsive Design** - Works seamlessly on all devices
-- ⌨️ **Simple Interface** - Just type and press Enter to get weather updates
+-  **Global Coverage** - Search weather for any city worldwide
+-  **Real-time Data** - Get current temperature in Celsius
+-  **Detailed Information** - View wind speed, humidity, and "feels like" temperature
+-  **Beautiful UI** - Clean and modern design with sunset background
+-  **Responsive Design** - Works seamlessly on all devices
+-  **Simple Interface** - Just type and press Enter to get weather updates
 
-## 🚀 Demo
+##  Demo
 
 The app displays:
 - Current temperature
@@ -24,7 +24,7 @@ The app displays:
 - Humidity percentage
 - Wind speed in MPH
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **React 19.1.0** - Frontend framework
 - **Axios** - HTTP client for API requests
@@ -32,7 +32,7 @@ The app displays:
 - **CSS3** - Custom styling with modern design
 - **Google Fonts** - Outfit and Poppins font families
 
-## 📋 Prerequisites
+## 📋Prerequisites
 
 Before running this project, make sure you have:
 
@@ -40,7 +40,7 @@ Before running this project, make sure you have:
 - npm or yarn package manager
 - An internet connection (for API calls)
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -72,7 +72,7 @@ Before running this project, make sure you have:
    - Humidity
    - Wind speed
 
-## 🌐 API
+## API
 
 This project uses the [OpenWeather API](https://openweathermap.org/api) to fetch real-time weather data.
 
@@ -80,7 +80,7 @@ This project uses the [OpenWeather API](https://openweathermap.org/api) to fetch
 - Get your own API key from [OpenWeather](https://openweathermap.org/api)
 - Store it in environment variables for security
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 weather-app-react/
@@ -101,7 +101,7 @@ weather-app-react/
 └── README.md
 ```
 
-## 🎨 Customization
+## Customization
 
 You can customize the app by:
 - Changing the background image in `src/assets/`
@@ -110,7 +110,7 @@ You can customize the app by:
 - Implementing weather forecasts
 - Adding geolocation for automatic location detection
 
-## 🚀 Available Scripts
+## Available Scripts
 
 ### `npm start`
 Runs the app in development mode at [http://localhost:3000](http://localhost:3000)
@@ -121,7 +121,7 @@ Launches the test runner in interactive watch mode
 ### `npm run build`
 Builds the app for production to the `build` folder
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
@@ -131,24 +131,12 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Author
+## Author
 
-**Ann Jo George**
+**Annjo George**
 
 - GitHub: [@annjogeorge](https://github.com/annjogeorge)
 
-## 🌟 Show your support
 
-Give a ⭐️ if you like this project!
-
-## 📮 Feedback
-
-If you have any feedback or suggestions, please reach out or create an issue on GitHub.
-
----
-
-Made with ❤️ by Ann Jo George
