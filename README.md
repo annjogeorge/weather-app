@@ -1,4 +1,4 @@
-# ☀️ Weather App
+# Simple Weather App
 
 A beautiful and responsive weather application built with React that provides real-time weather information for any location around the world.
 
